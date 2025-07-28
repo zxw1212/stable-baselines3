@@ -48,3 +48,6 @@ src
 *.prof
 
 MUJOCO_LOG.TXT
+
+
+cartesian_move_ppo.zip
